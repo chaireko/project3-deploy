@@ -1,7 +1,7 @@
 'use client'
 import Link from 'next/link'
 import Image from 'next/image'
-import ShareTeaLogo from "../assets/Sharetea.png";
+import ShareTeaLogo from "../../../public/Sharetea.png";
 
 export default function Navbar() {
     return (
